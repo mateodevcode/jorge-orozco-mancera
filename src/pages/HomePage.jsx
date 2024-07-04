@@ -1,4 +1,6 @@
+import Footer from "../components/Footer";
 import Header from "../components/Header";
+import MensajeFooter from "../components/MensajeFooter";
 import { imagenes } from "../data/imagenes";
 import Mis_proyectos from "./Mis-proyectos";
 
@@ -39,6 +41,8 @@ function HomePage() {
       </div>
     </div>
     <Mis_proyectos  />
+    <Footer />
+    <MensajeFooter />
     </>
   );
 }

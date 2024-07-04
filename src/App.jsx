@@ -7,7 +7,7 @@ import Acerca_de_mi from './pages/Acerca-de-mi'
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="jorge-orozco-mancera">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/mis-proyectos" element={<Mis_proyectos />} />

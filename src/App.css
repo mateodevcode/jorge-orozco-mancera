@@ -7,3 +7,18 @@
 .first-color {
     color: #3950C5;
 }
+
+.fondo-1 {
+    background: rgb(198, 207, 254);
+    background: linear-gradient(90deg, rgba(198, 207, 254, 1) 19%, rgba(121, 129, 169, 1) 100%);
+}
+
+.boton-1 {
+    background: #3950C5;
+    color: white;
+}
+
+.boton-0 {
+    background: white;
+    color: #000;
+}

@@ -1,11 +1,13 @@
 import Header from "../components/Header";
 import { imagenes } from "../data/imagenes";
+import Mis_proyectos from "./Mis-proyectos";
 
 function HomePage() {
   return (
+    <>
     <div>
       <Header />
-      <div className="mt-16">
+      <div className="mt-16 mb-10">
         <div className="flex flex-row justify-between items-center mx-20">
           <img
             src={imagenes[0].imagen}
@@ -36,6 +38,8 @@ function HomePage() {
         </div>
       </div>
     </div>
+    <Mis_proyectos  />
+    </>
   );
 }
 

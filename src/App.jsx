@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
 import HomePage from './pages/HomePage'
-import Mis_proyectos from './pages/Mis-proyectos'
 import Acerca_de_mi from './pages/Acerca-de-mi'
+import MisProyectosPage from './pages/MisProyectosPage'
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter basename="jorge-orozco-mancera">
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/mis-proyectos" element={<Mis_proyectos />} />
+        <Route path="/mis-proyectos" element={<MisProyectosPage />} />
         <Route path="/acerca-de-mi" element={<Acerca_de_mi />} />
 
 

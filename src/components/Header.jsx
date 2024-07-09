@@ -8,9 +8,9 @@ const Header = () => {
 
   return (
     <div className=" flex flex-row justify-between items-center mt-5">
-      <div className="flex flex-row justify-center items-center mx-20 rozha-one-regular first-color">
+      <a href="/" className="flex flex-row justify-center items-center mx-20 rozha-one-regular first-color cursor-pointer">
         <h1 className="text-5xl">J.O.</h1> <p className="mx-2 text-4xl uppercase">ux</p>
-      </div>
+      </a>
       <div className="flex flex-row justify-center items-center ml-60">
         <img src={flags[0].imagen} alt="" className="w-12 mx-4 cursor-pointer" />
         <img src={flags[1].imagen} alt="" className="w-12 mx-4 cursor-pointer" />

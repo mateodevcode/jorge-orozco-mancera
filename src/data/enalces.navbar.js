@@ -4,11 +4,11 @@ export const enlaces_espanol = [
     nombre: "Inicio",
   },
   {
-    URL: "/mis-proyectos",
+    URL: "/jorge-orozco-mancera/mis-proyectos",
     nombre: "Mis proyectos",
   },
   {
-    URL: "/acerca-de-mi",
+    URL: "/jorge-orozco-mancera/acerca-de-mi",
     nombre: "Acerca de mi",
   },
 ];

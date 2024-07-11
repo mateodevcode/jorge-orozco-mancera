@@ -1,5 +1,5 @@
 import Proyecto from "../components/Proyecto";
-import por_img_0 from "../img/por-img-0.png";
+import por_img_0 from "../img/antonella/por-img-0.png";
 import por_img_3 from "../img/por-img-3.png";
 import por_img_4 from "../img/por-img-4.png";
 

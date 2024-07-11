@@ -3,7 +3,7 @@ import './App.css'
 import HomePage from './pages/HomePage'
 import Acerca_de_mi from './pages/Acerca-de-mi'
 import MisProyectosPage from './pages/MisProyectosPage'
-import MisProyectosAntonella from './pages/Mis-proyectos-ayuca'
+import MisProyectosAntonella from './pages/Mis-proyectos-antonella'
 import MisProyectosAyuca from './pages/Mis-proyectos-ayuca'
 
 function App() {

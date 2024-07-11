@@ -16,12 +16,6 @@ import imagen_pro_14 from "../img/ayuca/img-port-014.png";
 import imagen_pro_15 from "../img/ayuca/img-port-015.png";
 import imagen_pro_16 from "../img/ayuca/img-port-016.png";
 
-
-
-
-
-
-
 import logo_figma from "../img/logo-figma.png";
 import linkedin from "../img/linkedin.png";
 import discord from "../img/discord.png";
@@ -465,8 +459,6 @@ const MisProyectosAyuca = () => {
           </div>
         </div>
 
-
-
         <div className="w-full flex flex-row justify-between items-center px-16">
           <div>
             <img src={imagen_pro_13} alt="" />
@@ -474,13 +466,15 @@ const MisProyectosAyuca = () => {
           {/* Flecha */}
           <div className="flex flex-col justify-center items-center">
             <p className="w-[600px] rounded-r-2xl text-base text-center mb-5">
-            Se pusieron las 6 cards de cada pagina de la aplicacion juntas y al mismo nivel para ahorrar espacio y una mejor comprension y navegacion de los usuarios. Estas son algunas de las mejoras realizadas despues del estudio de facilidad de uso...
+              Se pusieron las 6 cards de cada pagina de la aplicacion juntas y
+              al mismo nivel para ahorrar espacio y una mejor comprension y
+              navegacion de los usuarios. Estas son algunas de las mejoras
+              realizadas despues del estudio de facilidad de uso...
             </p>
             {/* Flecha */}
             <div className="flex flex-row justify-center items-center">
-            <div className="bg-[#fbc012] w-[150px] h-1 -mr-2"></div>
+              <div className="bg-[#fbc012] w-[150px] h-1 -mr-2"></div>
               <BiSolidRightArrow className="text-[#fbc012]" />
-              
             </div>
           </div>
           <div>
@@ -498,7 +492,10 @@ const MisProyectosAyuca = () => {
               Prototipo de Alta Fidelidad :
             </div>
             <p className="w-[450px] rounded-r-2xl text-base pl-12 mt-32 text-center">
-            El flujo de Alta Fidelidad se encuentra mas limpio y accesible despues de los cambios realizados, asi como la combinacion de colores según el Logo original, para una mejor presentacion de pantallas, mas limpia y funcional
+              El flujo de Alta Fidelidad se encuentra mas limpio y accesible
+              despues de los cambios realizados, asi como la combinacion de
+              colores según el Logo original, para una mejor presentacion de
+              pantallas, mas limpia y funcional
             </p>
           </div>
           <img src={imagen_pro_16} alt="" className="mr-20 w-[850px]" />
@@ -512,28 +509,34 @@ const MisProyectosAyuca = () => {
             <div className="flex flex-col justify-center items-center w-96 mx-5 ml-12">
               <div className="text-7xl rozha-one-regular">1</div>
               <p className="text-center mt-5 px-2">
-              Se usaron iconos, botones e inputs fields según los estandares de la industria, casi todos extraidos de Material Design y de la comunidad de Figma. 
+                Se usaron iconos, botones e inputs fields según los estandares
+                de la industria, casi todos extraidos de Material Design y de la
+                comunidad de Figma.
               </p>
             </div>
 
             <div className="flex flex-col justify-center items-center w-96 mx-5">
               <div className="text-7xl rozha-one-regular">2</div>
               <p className="text-center mt-5 px-2">
-              Se uso una gama de colores acorde con el Logo de Ayuca, y del Cancer en general, buscando una combinacion que pudiera hacer contraste y no tener dificultades visuales.
+                Se uso una gama de colores acorde con el Logo de Ayuca, y del
+                Cancer en general, buscando una combinacion que pudiera hacer
+                contraste y no tener dificultades visuales.
               </p>
             </div>
 
             <div className="flex flex-col justify-center items-center w-96 mx-5">
               <div className="text-7xl rozha-one-regular">3</div>
               <p className="text-center mt-5 px-2">
-              En la maqueta de alta fidelidad se usaron fotos descargadas de internet, a la espera de el catalogo que tiene la propia asociacion. 
+                En la maqueta de alta fidelidad se usaron fotos descargadas de
+                internet, a la espera de el catalogo que tiene la propia
+                asociacion.
               </p>
             </div>
           </div>
         </div>
 
         <div className="bg-black w-full rozha-one-regular fondo-2 text-white text-center text-5xl py-20 mt-10">
-        El Futuro
+          El Futuro
         </div>
 
         <div className="w-full mt-10">
@@ -546,7 +549,10 @@ const MisProyectosAyuca = () => {
                 Impacto
               </div>
               <p className="text-center mt-5 px-2">
-              Esta web y aplicación hara que las personas con cancer y sus familiares, de Ronda y la serrania tengan un mejor acceso a informacion, para tembien recibir un apoyo, tanto economico, como psicologico, social y animico para superar su emfermedad.
+                Esta web y aplicación hara que las personas con cancer y sus
+                familiares, de Ronda y la serrania tengan un mejor acceso a
+                informacion, para tembien recibir un apoyo, tanto economico,
+                como psicologico, social y animico para superar su emfermedad.
               </p>
             </div>
 
@@ -555,12 +561,15 @@ const MisProyectosAyuca = () => {
                 Que Aprendi
               </div>
               <p className="text-center mt-5 px-2">
-              En el proceso de diseño he podido aprender mucho mas de lo que sabia de como hacer y preparar investigaciones, asi como la importancia de los feedback, y siendo una asociacion de ayuda para enfermos de cancer me he sentido muy cercano a los enfermos y sus familiares.
+                En el proceso de diseño he podido aprender mucho mas de lo que
+                sabia de como hacer y preparar investigaciones, asi como la
+                importancia de los feedback, y siendo una asociacion de ayuda
+                para enfermos de cancer me he sentido muy cercano a los enfermos
+                y sus familiares.
               </p>
             </div>
           </div>
         </div>
-
 
         <div className="w-full mt-5">
           <div className="p-4 fondo-1 w-[450px] rounded-r-2xl rozha-one-regular text-xl pl-10">
@@ -570,38 +579,45 @@ const MisProyectosAyuca = () => {
             <div className="flex flex-col justify-center items-center w-96 mx-5 ml-12">
               <div className="text-7xl rozha-one-regular">1</div>
               <p className="text-center mt-5 px-2">
-              Una vez este la web y app totalmente desarrollada y online, esperaremos unos 3 meses para hacer una ronda de investigaciones, asi como recoger feedbacks de los usuarios y asi poder solventar algunos problemas de usabilidad si los hubiere.
+                Una vez este la web y app totalmente desarrollada y online,
+                esperaremos unos 3 meses para hacer una ronda de
+                investigaciones, asi como recoger feedbacks de los usuarios y
+                asi poder solventar algunos problemas de usabilidad si los
+                hubiere.
               </p>
             </div>
 
             <div className="flex flex-col justify-center items-center w-96 mx-5">
               <div className="text-7xl rozha-one-regular">2</div>
               <p className="text-center mt-5 px-2">
-              Realizar tambien en el futuro una ronda de investigaciones para ampliar la web y aplicación en funcion de las necesidades de los usuarios de la asociacion Ayuca.
+                Realizar tambien en el futuro una ronda de investigaciones para
+                ampliar la web y aplicación en funcion de las necesidades de los
+                usuarios de la asociacion Ayuca.
               </p>
             </div>
 
             <div className="flex flex-col justify-center items-center w-96 mx-5">
               <div className="text-7xl rozha-one-regular">3</div>
               <p className="text-center mt-5 px-2">
-              Realizar alguna investigacion de usuario para ver las posibles necesidades de estos para hacer alguna mejora en el futuro no muy lejano.
+                Realizar alguna investigacion de usuario para ver las posibles
+                necesidades de estos para hacer alguna mejora en el futuro no
+                muy lejano.
               </p>
             </div>
           </div>
         </div>
 
         <div className="bg-black w-full rozha-one-regular fondo-2 text-white text-center text-5xl py-20 mt-10">
-        ! Gracias !
+          ! Gracias !
         </div>
 
-
-
-
         <p className="px-20 my-10 text-center">
-        Muchisimas gracias por dedicar su tiempo a leer mi presentacion sobre este mi segundo proyecto, solo espero que les haya gustado mi trabajo y tambien espero que me den su feedback, su opinion de que esta bien, que esta regular y que se podria mejorar en este proyecto, para poder tenerlo en cuenta para los proximos...
+          Muchisimas gracias por dedicar su tiempo a leer mi presentacion sobre
+          este mi segundo proyecto, solo espero que les haya gustado mi trabajo
+          y tambien espero que me den su feedback, su opinion de que esta bien,
+          que esta regular y que se podria mejorar en este proyecto, para poder
+          tenerlo en cuenta para los proximos...
         </p>
-
-
 
         <div className="flex flex-row justify-center items-center">
           <img src={logo_figma} alt="" />
